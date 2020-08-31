@@ -1,3 +1,6 @@
+/*
+Third Largest number
+*/
 class GfG2
 {
     int thirdLargest(int a[], int n)
