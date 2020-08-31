@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0802f388-0058-40be-864f-7113ab80d9ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSALGO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSALGO/Convert_To_Five.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSALGO/GfG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSALGO/GfG2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSALGO/ThirdLargestElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Convert_To_Five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdLargestElement.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DSALGO" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gsdgd3ZnvLUs9ajxruXDm5rUV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ThirdLargestElement">
+    <configuration name="Convert_To_Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Convert_To_Five" />
+      <module name="DSALGO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdLargestElement" />
+      <module name="DSALGO" />
+      <option name="PROGRAM_PARAMETERS" value="1 3 20 10 40" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Convert_To_Five" />
+      <item itemvalue="Application.ThirdLargestElement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThirdLargestElement" />
+        <item itemvalue="Application.Convert_To_Five" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0802f388-0058-40be-864f-7113ab80d9ad" name="Default Changelist" comment="" />
+      <created>1598907345788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598907345788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="35" key="#ThirdLargestElement" timestamp="1598912739893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="35" key="#ThirdLargestElement/0.0.1366.728@0.0.1366.728" timestamp="1598912739893" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598913645243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598913645243" />
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598913542416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1598913542416" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598913677823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598913677823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598913677823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598913677823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598913677823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598913677823" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598913677823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598913677823" />
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1598913459091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598913459091" />
+    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1598913459090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598913459090" />
+    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1598913459090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598913459090" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1598913459091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598913459091" />
+  </component>
+</project>
